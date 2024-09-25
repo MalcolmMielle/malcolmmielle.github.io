@@ -1,3 +1,6 @@
+---
+title:
+---
  [PDF](https://arxiv.org/html/2403.12154v1) [Code](https://github.com/Schindler-EPFL-Lab/thermo-nerf)
 
 ![](featured.png)

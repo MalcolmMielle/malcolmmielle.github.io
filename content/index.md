@@ -1,21 +1,20 @@
 ---
 title: Malcolm Mielle
 tags:
-  - sustainability
 ---
 ![[kungsleden.jpg]]
 
-|                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](images/logo.jpg) | I am the Team Lead at Schindler EPFL Lab. My research aims to bridge the gap between machine learning and sustainable urban practices, making cities resilient and energy-efficient ([UNSG 11](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-11)). Feel free to reach out to me via [e-mail](mailto:mmielle.wizard049@passinbox.com) or [LinkedIn](https://www.linkedin.com/in/malcolm-mielle) for discussions and potential collaborations.<br>Socials: [Github](https://github.com/MalcolmMielle), [Google Scholar](https://scholar.google.com/citations?user=niir1TkAAAAJ&hl=en), [Orcid](https://orcid.org/0000-0002-3079-0512) |
+|                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](images/logo.jpg) | I am the Team Lead at Schindler EPFL Lab. My research aims to bridge the gap between **machine learning** and **sustainable urban practices**, making cities resilient and energy-efficient ([UNSG 11](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-11)). Feel free to reach out to me via [e-mail](mailto:mmielle.wizard049@passinbox.com) or [LinkedIn](https://www.linkedin.com/in/malcolm-mielle) for discussions and potential collaborations.<br>[Github](https://github.com/MalcolmMielle) [Google Scholar](https://scholar.google.com/citations?user=niir1TkAAAAJ&hl=en), [Orcid](https://orcid.org/0000-0002-3079-0512) <br> |
 
 Have a look at my [[All publications|Publications]], [[Patents]], [[Dataset]], [[Grants]], or download my [[resume.pdf|CV]].
 
 ## News
 
-* [[6& 2024-10-01 Thermo-NeRF poster at ECCV 2024]]
-* [[7& 2024-09-01 IMC 2024 Session chair]]
-* [[8& 2024-05-01 ASCE Swiss Prize]]
+* [[6& 2024-10-01 Thermo-NeRF poster at ECCV 2024|2024-10-01 Thermo-NeRF poster at ECCV 2024]]
+* [[7& 2024-09-01 IMC 2024 Session chair|2024-09-01 IMC 2024 Session chair]]
+* [[8& 2024-05-01 ASCE Swiss Prize|2024-05-01 ASCE Swiss Prize]]
 
 ## Supervised Students
 

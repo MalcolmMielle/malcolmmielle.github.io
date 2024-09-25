@@ -52,7 +52,7 @@ design:
 
 **Authors**: Mariam Hassan, Florent Forest, Olga Fink, Malcolm Mielle
 
-[PDF](https://arxiv.org/pdf/2403.12154) [Cite](https://malcolmmielle.github.io/publication/thermonerf/cite.bib) [Code](https://github.com/Schindler-EPFL-Lab/thermo-nerf) [Dataset](https://zenodo.org/records/10835108)[Project](https://malcolmmielle.github.io/project/insulated/) [URL](http://arxiv.org/abs/2403.12154)
+[PDF](https://arxiv.org/pdf/2403.12154)  [Code](https://github.com/Schindler-EPFL-Lab/thermo-nerf)  [Dataset](https://zenodo.org/records/10835108) [URL](http://arxiv.org/abs/2403.12154)
 
 ## Method
 
