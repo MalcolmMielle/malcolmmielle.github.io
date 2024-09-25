@@ -9,7 +9,7 @@ tags:
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](images/logo.jpg) | I am the Team Lead at Schindler EPFL Lab. My research aims to bridge the gap between machine learning and sustainable urban practices, making cities resilient and energy-efficient ([UNSG 11](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-11)). Feel free to reach out to me via [e-mail](mailto:mmielle.wizard049@passinbox.com) or [LinkedIn](https://www.linkedin.com/in/malcolm-mielle) for discussions and potential collaborations.<br>Socials: [Github](https://github.com/MalcolmMielle), [Google Scholar](https://scholar.google.com/citations?user=niir1TkAAAAJ&hl=en), [Orcid](https://orcid.org/0000-0002-3079-0512) |
 
-Have a look at my [[All publications]], [[Patents]], [[Dataset]], [[Grants]], or download my [[resume.pdf|CV]].
+Have a look at my [[All publications|Publications]], [[Patents]], [[Dataset]], [[Grants]], or download my [[resume.pdf|CV]].
 
 ## News
 
@@ -35,9 +35,9 @@ Have a look at my [[All publications]], [[Patents]], [[Dataset]], [[Grants]], or
 
 #### 2024
 
-* <a href='https://www.linkedin.com/in/etiennechassaing'/>Etienne Chassaing</a>: co-supervision with IMOS EPFL
-* <a href='https://ch.linkedin.com/in/tiavina-rafiringa-40ab73183'/>Tiavina Rafiringa</a>
-* <a href='https://www.linkedin.com/in/yuxin-wang-624a10192'/>Yuxin Wang</a>
+* [Etienne Chassaing](https://www.linkedin.com/in/etiennechassaing): co-supervision with IMOS EPFL
+* [Tiavina Rafiringa](https://ch.linkedin.com/in/tiavina-rafiringa-40ab73183)
+* [Yuxin Wang](https://www.linkedin.com/in/yuxin-wang-624a10192)
 
 #### 2023
 
