@@ -29,6 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
+      folderDefaultState: "collapsed",
       mapFn: (node) => {
         node.displayName = node.displayName.replace(/\d+&/, '');
       },

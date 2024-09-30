@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "clarity",
-      siteId: "o8w6rbt5p3"
+      projectId: "o8w6rbt5p3"
     },
     locale: "en-US",
     baseUrl: "malcolmmielle.github.io",
