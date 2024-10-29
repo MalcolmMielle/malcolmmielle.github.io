@@ -10,6 +10,9 @@ tags:
 
 Have a look at my [[All publications|Publications]], [[Patents]], [[Dataset]], [[Grants]], or download my [[resume.pdf|CV]].
 
+I also do some #climbing , some #alpinism , and #ski-touring .
+Click the # to get a list of information on the subjects.
+
 ## News
 
 * [[6& 2024-10-01 Thermo-NeRF poster at ECCV 2024|2024-10-01 Thermo-NeRF poster at ECCV 2024]]
