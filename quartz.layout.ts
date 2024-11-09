@@ -26,8 +26,6 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       folderDefaultState: "collapsed",
       mapFn: (node) => {
@@ -39,9 +37,21 @@ export const defaultContentPageLayout: PageLayout = {
     )),
   ],
   right: [
-    Component.Graph(),
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+
+    Component.MobileOnly(Component.Explorer({
+      folderDefaultState: "collapsed",
+      mapFn: (node) => {
+        node.displayName = node.displayName.replace(/\d+&/, '');
+      },
+      order: ["filter", "sort", "map"],
+    }
+
+    )),
   ],
 }
 
@@ -51,9 +61,31 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      folderDefaultState: "collapsed",
+      mapFn: (node) => {
+        node.displayName = node.displayName.replace(/\d+&/, '');
+      },
+      order: ["filter", "sort", "map"],
+    }
+
+    )),
   ],
-  right: [],
+  right: [
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+
+    Component.MobileOnly(Component.Explorer({
+      folderDefaultState: "collapsed",
+      mapFn: (node) => {
+        node.displayName = node.displayName.replace(/\d+&/, '');
+      },
+      order: ["filter", "sort", "map"],
+    }
+
+    )),
+  ],
 }
