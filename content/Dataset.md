@@ -1,4 +1,4 @@
-Anonymous (2024). **ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**. _Zenodo_.
+Mariam Hassan, Florent Forest, Olga Fink, **Malcolm Mielle** (2024). **ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**. _Zenodo_.
 
 [DOI](https://doi.org/10.5281/ZENODO.10835108) [URL](https://zenodo.org/doi/10.5281/zenodo.10835108)
 ______
