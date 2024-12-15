@@ -45,6 +45,7 @@ design:
       - 0px
       - 0px
 ---
+
 # Multimodal Neural Radiance Fields for Thermal Novel View Synthesis
 
 ![EPFL Pavillon](epfl_pavillon.gif)
