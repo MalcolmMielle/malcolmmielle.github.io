@@ -61,7 +61,7 @@ However, this is a really long link and not suitable for display in the footnote
 https://archive.softwareheritage.org/swh:1:rev:bb221283c204ace4fe5cc6f4438d35073c41fab8;origin=https://github.com/MalcolmMielle/Auto-Complete-Graph;visit=swh:1:snp:8a575153bb620b44dd8d45b31a1679ed68f93614
 ```
 
-On the other hand, searching for the SWHID `swh:1:rev:bb221283c204ace4fe5cc6f4438d35073c41fab8` in the interface gives only the specific version and its history but not the link to the repo it comes from).
+On the other hand, searching for the SWHID `swh:1:rev:bb221283c204ace4fe5cc6f4438d35073c41fab8` in the interface gives only the specific version and its history but not the link to the repo it comes from.
 For convenience sake, the solution is to use href as such:
 
 ```latex
