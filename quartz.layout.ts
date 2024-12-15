@@ -42,8 +42,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-
     Component.MobileOnly(Component.Explorer({
       folderDefaultState: "collapsed",
       mapFn: (node) => {
@@ -53,6 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
     }
 
     )),
+    Component.Backlinks(),
   ],
 }
 
@@ -78,8 +77,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-
     Component.MobileOnly(Component.Explorer({
       folderDefaultState: "collapsed",
       mapFn: (node) => {
@@ -89,5 +86,6 @@ export const defaultListPageLayout: PageLayout = {
     }
 
     )),
+    Component.Backlinks(),
   ],
 }
