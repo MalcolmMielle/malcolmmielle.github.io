@@ -25,6 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
+    Component.MobileOnly(Component.Darkmode()),
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Explorer({
       folderDefaultState: "collapsed",
@@ -37,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
     )),
   ],
   right: [
-    Component.Darkmode(),
+    Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
