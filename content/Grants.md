@@ -2,7 +2,7 @@
 
 ![](images/insulated.gif)
 
-#sustainability  
+#sustainability
 
 Total: 317'814CHF.
 

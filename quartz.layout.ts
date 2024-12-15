@@ -60,6 +60,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
+    Component.MobileOnly(Component.Darkmode()),
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Explorer({
       folderDefaultState: "collapsed",
@@ -72,7 +73,7 @@ export const defaultListPageLayout: PageLayout = {
     )),
   ],
   right: [
-    Component.Darkmode(),
+    Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
