@@ -1,6 +1,6 @@
 ## [Insulated: integrated solution for lean and abridged thermal evaluation with digital twins](https://www.aramis.admin.ch/Grunddaten/?ProjectID=53471)
 
-![](images/insulated.gif)
+![](insulated.gif)
 
 #sustainability
 
