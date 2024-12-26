@@ -86,7 +86,6 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   header: [
-    Component.PageTitle(),
     Component.Search(),
     Component.Darkmode()
   ],
@@ -95,6 +94,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta()],
   left: [
+    Component.PageTitle(),
     Component.DesktopOnly(Component.Explorer({
       folderDefaultState: "collapsed",
       mapFn: (node) => {
