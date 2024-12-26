@@ -13,12 +13,6 @@ Have a look at my [[All publications|Publications]], [[Patents]], [[Datasets]], 
 I also do some #climbing , some #alpinism , and #ski-touring .
 Click the # to get a list of information on the subjects.
 
-## News
-
-* [[6& 2024-10-01 Thermo-NeRF poster at ECCV 2024|2024-10-01 Thermo-NeRF poster at ECCV 2024]]
-* [[7& 2024-09-01 IMC 2024 Session chair|2024-09-01 IMC 2024 Session chair]]
-* [[8& 2024-05-01 ASCE Swiss Prize|2024-05-01 ASCE Swiss Prize]]
-
 ## Supervised Students
 
 ### PhD
@@ -43,12 +37,12 @@ Click the # to get a list of information on the subjects.
 
 #### 2023
 
-* <a href='https://scholar.google.fr/citations?user=RHHfk44AAAAJ/'>Mariam Hassan</a> : co-supervision with IMOS EPFL – PhD student, EPFL VITA lab (Switzerland)
-* <a href='https://www.linkedin.com/in/antoine-laborde-ml/'>Antoine Laborde</a>: co-supervision with IMOS EPFL – AI engineer, inspire AG (Switzerland)
+* [Mariam Hassan](https://scholar.google.fr/citations?user=RHHfk44AAAAJ/): co-supervision with IMOS EPFL – PhD student, EPFL VITA lab (Switzerland)
+* [Antoine Laborde](https://www.linkedin.com/in/antoine-laborde-ml/): co-supervision with IMOS EPFL – AI engineer, inspire AG (Switzerland)
 
 #### 2022
 
-* <a href='https://www.linkedin.com/in/lorenzopanchetti'/>Lorenzo Panchetti</a> - Edge AI Engineer, Schindler AG (Switzerland)
+* [Lorenzo Panchetti](https://www.linkedin.com/in/lorenzopanchetti) - Edge AI Engineer, Schindler AG (Switzerland)
 
 ### Internship
 

@@ -7,6 +7,7 @@ tags:
   - software
   - dataset
 ---
+# Cite Software and Datasets in Your Research
 ![[blog/images/cite.jpeg|500]]
 
 I find it interesting how, even in computer science and machine learning, citing elements other than papers is still done using URLs.
