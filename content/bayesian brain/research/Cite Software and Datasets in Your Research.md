@@ -7,8 +7,7 @@ tags:
   - software
   - dataset
 ---
-# Cite Software and Datasets in Your Research
-![[blog/images/cite.jpeg|500]]
+![[cite.jpeg|500]]
 
 I find it interesting how, even in computer science and machine learning, citing elements other than papers is still done using URLs.
 However, using URL is a bad choice as [link rot](http://dx.doi.org/10.1002/asi.23561) is a [real problem](https://blog.linkody.com/case-studies/link-rot); it's "ok" for some   information but it is a real problem when science needs to be reproducible.

@@ -35,13 +35,13 @@ export type Analytics =
     siteId: string
   }
   | {
-      provider: "cabin"
-      host?: string
-    }
+    provider: "cabin"
+    host?: string
+  }
   | {
-      provider: "clarity"
-      projectId?: string
-    }
+    provider: "clarity"
+    projectId?: string
+  }
 
 export interface GlobalConfiguration {
   pageTitle: string
@@ -88,5 +88,5 @@ export interface FullPageLayout {
   footer: QuartzComponent
 }
 
-export type PageLayout = Pick<FullPageLayout, "beforeBody" | "left" | "right">
+export type PageLayout = Pick<FullPageLayout, "header" | "beforeBody" | "left" | "right">
 export type SharedLayout = Pick<FullPageLayout, "head" | "header" | "footer" | "afterBody">

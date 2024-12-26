@@ -3,15 +3,19 @@ title: Malcolm Mielle
 tags:
 ---
 ![[kungsleden.jpg]]
+<p style="font-size: 24px;">I aims to bridge the gap between machine learning, sustainable urban practices, and worker safety.</p>
 
-|                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](logo.jpg) | I am the Team Lead at Schindler EPFL Lab. My research aims to bridge the gap between **machine learning** and **sustainable urban practices**, making cities resilient and energy-efficient ([UNSG 11](https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-11)). Feel free to reach out to me via [e-mail](mailto:mmielle.wizard049@passinbox.com) or [LinkedIn](https://www.linkedin.com/in/malcolm-mielle) for discussions and potential collaborations.<br>[Github](https://github.com/MalcolmMielle) [Google Scholar](https://scholar.google.com/citations?user=niir1TkAAAAJ&hl=en), [Orcid](https://orcid.org/0000-0002-3079-0512) <br> |
+|               |                                                |
+| ------------- | ---------------------------------------------- |
+| ![[logo.jpg|300]] | Currently team lead at Schindler EPFL Lab. Get to know me through my work: [[All publications|Publications]], [[Patents]], [[Datasets]], [[Grants]], and my [[resume.pdf|CV]]. |
 
-Have a look at my [[All publications|Publications]], [[Patents]], [[Datasets]], [[Grants]], or download my [[resume.pdf|CV]].
+<!-- Feel free to reach out to me via [e-mail](mailto:mmielle.wizard049@passinbox.com) or [LinkedIn](https://www.linkedin.com/in/malcolm-mielle) for discussions and potential collaborations.<br>[Github](https://github.com/MalcolmMielle) [Google Scholar](https://scholar.google.com/citations?user=niir1TkAAAAJ&hl=en), [Orcid](https://orcid.org/0000-0002-3079-0512) <br> -->
+I also do some #climbing, some #alpinism, and #ski-touring.
 
-I also do some #climbing , some #alpinism , and #ski-touring .
-Click the # to get a list of information on the subjects.
+## The Bayesian Brain
+
+A digital garden is a collection of imperfect notes, essays, and ideas growing slowly over time.
+Mine is named the [[bayesian brain]] and is a collection of thoughts and interesting facts related to research, programming, and outdoor activities.
 
 ## Supervised Students
 

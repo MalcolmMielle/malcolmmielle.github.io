@@ -4,8 +4,6 @@ tags:
   - research
 ---
 
-# CI for Python Research
-
 Continuous Integration (CI) enables you to maintain the quality of your code in time and for your contributors.
 Such pipelines should at least check:
 

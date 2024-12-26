@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       projectId: "o8w6rbt5p3"
     },
     locale: "en-US",
-    baseUrl: "malcolmmielle.github.io",
+    baseUrl: "malcolmmielle.phd",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -26,11 +26,11 @@ const config: QuartzConfig = {
       typography: {
         header: "Atkinson Hyperlegible",
         body: "Atkinson Hyperlegible",
-        code: "IBM Plex Mono",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#FFFFFF",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
@@ -41,7 +41,7 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
+          light: "#121212",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
