@@ -18,7 +18,10 @@ export const sharedPageComponents: SharedLayout = {
       // from data-category-id
       categoryId: 'DIC_kwDOM3MhsM4Clk-E',
       mapping: "title",
-      inputPosition: "top"
+      inputPosition: "top",
+      themeUrl: "https://www.malcolmmielle.phd/static/giscus", // corresponds to quartz/static/giscus/
+      lightTheme: "light", // corresponds to light-theme.css in quartz/static/giscus/
+      darkTheme: "dark", // corresponds to dark-theme.css quartz/static/giscus/
     }
   }),],
   footer: Component.Footer({
