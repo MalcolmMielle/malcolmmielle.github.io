@@ -21,7 +21,7 @@ export const sharedPageComponents: SharedLayout = {
       inputPosition: "top",
       themeUrl: "https://www.malcolmmielle.phd/static/giscus", // corresponds to quartz/static/giscus/
       lightTheme: "light", // corresponds to light-theme.css in quartz/static/giscus/
-      darkTheme: "dark", // corresponds to dark-theme.css quartz/static/giscus/
+      darkTheme: "no_border_dark", // corresponds to dark-theme.css quartz/static/giscus/
     }
   }),],
   footer: Component.Footer({
