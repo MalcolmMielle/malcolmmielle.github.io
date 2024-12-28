@@ -3,7 +3,7 @@ tags:
   - python
   - research
 ---
-Python packaging helps you create code that can be easily tested, used, and extended by other people/researchers.
+**Python** packaging helps you create code that can be easily tested, used, and extended by other people/researchers.
 Especially, it enables others to extend your code through dependencies import.
 Seeing as most people in research tend to fork and develop a new version of the code without ever merging their changes back into the main repository leading to high fragmentation of the space (or duplicated implementations), correct Python packaging is great for researchers who want to use the latest version of a given research code but don’t want to push their changes to the original repo.
 Indeed, a "fork and develop" strategy without plans the merge one’s changes in the main repo, ends up creating multiple versions of the same code, hurting reproducibility and collaboration efforts, and leaves other people to "figure out which version is best".

@@ -55,11 +55,15 @@ No lint errors should happen before merging.
 Follow [PEP-484](https://www.python.org/dev/peps/pep-0484/).
 Type annotations (or “type hints”) are for function or method arguments and return values (including `None` when nothing is returned):
 
-`def func(a: int) -> list[int]:`
+```python
+def func(a: int) -> list[int]:
+```
 
 You can also declare the type of variables using similar PEP-526 syntax:
 
-`a: SomeType = some_func()`
+```python
+a: SomeType = some_func()
+```
 
 Avoid declaring instance attributes outside the `__init__` method as much as possible. But when it's unavoidable, type hint should be added on top of the class:
 
