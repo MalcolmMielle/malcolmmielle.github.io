@@ -8,7 +8,7 @@ tags:
 
 |               |                                                |
 | ------------- | ---------------------------------------------- |
-| ![[logo.jpg|300]] | Currently team lead at Schindler EPFL Lab. Get to know me through my work: [[All publications|Publications]], [[Patents]], [[Datasets]], [[Grants]], and my [[resume.pdf|CV]]. |
+| ![[logo.jpg|300]] | Currently team lead at Schindler EPFL Lab. Get to know me through my work: [[All publications|Publications]], [[Patents]], [[Datasets]], [[Grants]], and my [[resume.pdf|CV]], or just explore those [[Links]]|
 
 Here are a list of my current and past research [[Supervision]] with students.
 

@@ -26,10 +26,7 @@ export const sharedPageComponents: SharedLayout = {
   }),],
   footer: Component.Footer({
     links: {
-      Github: "https://github.com/MalcolmMielle",
-      GoogleScholar: "https://scholar.google.com/citations?user=niir1TkAAAAJ&hl=en",
-      Orcid: "https://orcid.org/0000-0002-3079-0512",
-      LinkedIn: "https://www.linkedin.com/in/malcolm-mielle",
+      "Scholar-and-code-links": "Links",
       Email: "mailto:mmielle.wizard049@passinbox.com"
     },
   }),
